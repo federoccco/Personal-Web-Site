@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  line-height: 2;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #11999E;
+  line-height: 2
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color: #11999E;
+  margin-top: 6.25rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 6.25rem;
+  margin-bottom: 6.25rem;
+}
+
+.middle-container {
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  margin: 6.25rem auto 0 auto;
+  padding: 3.75rem 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 3.125rem;
+  right: 18.75rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 18.75rem;
+  bottom: 18.75rem;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+
+
+.skills-img {
+  width: 10.438rem;
+}
+
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  padding: 0 1.25rem 0 1.25rem;
+}
+
+
+.twitch-link {
+  color: #11999E;
+  font-weight: normal;
+  text-decoration: none;
+
+}
+.programmer-paragraph {
+  font-weight: normal;
+}
+
+.skill-row {
+width: 50%;
+margin: 6.25rem auto 12.5rem auto;
+text-align: left;
+line-height: 2
+}
+
+
+.skills-img {
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.useless-skills-img {
+  width: 25%;
+  float: right;
+  margin-left: 1.875rem;
+}
+
+.skills-table {
+  line-height:2
+}
+
+.profile-pic {
+  width: 15%;
+}
+
+.contact-me {
+  margin: 6.25rem auto 6.25rem auto;
+}
+
+.contact-button {
+   -webkit-border-radius: 1.25rem;
+   -moz-border-radius: 1.25rem;
+   border-radius: 1.25rem;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 1.25rem;
+   font-weight: 100;
+   padding: 1.25rem;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 3.75rem
+}
+
+.bottom-page-name {
+  color: #EAF6F6;
+  margin: 1.25rem auto auto auto;
+}
+
+.profile {
+  margin: 6.25rem auto 6.25rem auto;
+}
